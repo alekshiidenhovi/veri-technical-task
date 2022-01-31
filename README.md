@@ -8,3 +8,9 @@
 - Data preprocessing
 - Model Building and Hyperparameter Tuning
 - Predictions and outputting the csv-file
+
+### Links to the documentation:
+- scikit-learn (MLPClassifier): https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html#sklearn.neural_network.MLPClassifier
+- Matplotlib: https://matplotlib.org/stable/index.html
+- Numpy: https://numpy.org/doc/stable/index.html
+- Pandas: https://pandas.pydata.org/docs/
